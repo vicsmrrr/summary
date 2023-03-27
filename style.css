@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(175, 147, 113);
+}
+hr{
+    color: black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 400px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+ol{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.p1{
+    text-align: center;
+}
